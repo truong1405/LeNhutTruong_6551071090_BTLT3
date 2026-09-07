@@ -1,0 +1,10 @@
+C:\Users\Truong\Downloads\Cau5\Cau5\Cau5\bin\Debug\net472\Cau5.exe.config
+C:\Users\Truong\Downloads\Cau5\Cau5\Cau5\bin\Debug\net472\Cau5.exe
+C:\Users\Truong\Downloads\Cau5\Cau5\Cau5\bin\Debug\net472\Cau5.pdb
+C:\Users\Truong\Downloads\Cau5\Cau5\Cau5\obj\Debug\net472\Cau5.csproj.AssemblyReference.cache
+C:\Users\Truong\Downloads\Cau5\Cau5\Cau5\obj\Debug\net472\Cau5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Truong\Downloads\Cau5\Cau5\Cau5\obj\Debug\net472\Cau5.AssemblyInfoInputs.cache
+C:\Users\Truong\Downloads\Cau5\Cau5\Cau5\obj\Debug\net472\Cau5.AssemblyInfo.cs
+C:\Users\Truong\Downloads\Cau5\Cau5\Cau5\obj\Debug\net472\Cau5.csproj.CoreCompileInputs.cache
+C:\Users\Truong\Downloads\Cau5\Cau5\Cau5\obj\Debug\net472\Cau5.exe
+C:\Users\Truong\Downloads\Cau5\Cau5\Cau5\obj\Debug\net472\Cau5.pdb
